@@ -1,0 +1,100 @@
+footer{
+
+    padding: 20px;
+    background-color: black;
+    color: white;
+
+    clear: both;
+
+}
+footer ul li{
+    list-style: none;
+}
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+
+
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;}
+.mapouter{text-align:right;height:316px;width:559px;}
+.gmap_canvas {overflow:hidden;background:none!important;height:316px;width:559px;}
+
+
+.navbar-nav{
+    padding: 8px;
+    margin: 5px;
+}
+
+.nav-item{
+    display: inline;
+    margin-right: 45px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.navbar-brand{
+    font-size: 32px;
+}
+body {
+    background: rgb(149,128,112);
+    background: linear-gradient(0deg, rgba(149,128,112,1) 0%, rgba(255,253,248,0.40940126050420167) 100%);
+    font-weight: 400; }
+
+#content{
+    float:left;
+    width:100%;
+
+    padding:5%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+
+
+}
+
+ul>li{
+    list-style: none;
+    text-decoration: none;
+    font-size: 16px;
+
+}
+li>a{
+    color: black;
+}
+li>a:hover{
+    color: red;
+}
+h1 {
+    font-size: 45px;
+    text-align: left;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+

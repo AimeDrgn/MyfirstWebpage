@@ -1,0 +1,13 @@
+Dragomir Raluca-Maria
+Nume website "Think Outside The Box"
+Curs de Web Developer
+In site-ul creat de mine veti gasi cateva informatii, fiecare regasandu-se in unul dintre domeniile aflate
+in bara de navigare. Cartile de pe Wattpad sunt scrise chiar de mine la celelalte articole m-am folosit de informatiile
+gasite pe diverse site-uri ca si "ELLE".
+Ca si site-uri m-am folosit de:
+https://developer.mozilla.org/en-US/
+https://www.w3schools.com
+https://www.elle.com
+http://build-its-inprogress.blogspot.com
+In bootstrap am luat coduri pentru bara de navigare, formular si tabel, pentru a-l face sa arate cat mai placut.
+Sper sa va placa!
